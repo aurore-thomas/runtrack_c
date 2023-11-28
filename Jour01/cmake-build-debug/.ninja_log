@@ -1,0 +1,12 @@
+# ninja log v5
+1	146	7227827067333222	CMakeFiles/Jour01.dir/main.c.obj	f7bff14d71bb78ab
+79	154	7228821925096976	Jour01.exe	ded1f17636079810
+1	54	7228646545668692	CMakeFiles/Jour01.dir/job01/my_putchar.c.obj	e311301a5f90acf
+2	65	7228671282418642	CMakeFiles/Jour01.dir/job01/my_putstr.c.obj	35fe8171d9a33a8f
+1	152	7228824386194869	build.ninja	e7d4d4217d832874
+2	76	7228678800069205	CMakeFiles/Jour01.dir/job02/my_strlen.c.obj	6eb870fef9162da3
+0	68	7228683560307170	CMakeFiles/Jour01.dir/job03/char_is_digit.c.obj	206b836c9bcfa55
+2	67	7228690071838685	CMakeFiles/Jour01.dir/job03/str_is_digit.c.obj	9d5773c092bce21f
+2	62	7228718378733571	CMakeFiles/Jour01.dir/job04/my_strcpy.c.obj	2c372b70e3a4c58a
+2	68	7228786031578096	CMakeFiles/Jour01.dir/Job06/my_strcmp.c.obj	6a5d075c19950247
+2	79	7228821924386437	CMakeFiles/Jour01.dir/Job07/trim.c.obj	2aef1adc0eb2d4e5
