@@ -1,0 +1,12 @@
+# ninja log v5
+2	105	7229657494574120	CMakeFiles/Jour02.dir/Job06/delete_str_array.c.obj	cf37dba4389ee81e
+6	115	7229657494715099	CMakeFiles/Jour02.dir/Job04/sort.c.obj	694baa7b6a21a3f
+1	174	7229657921922704	build.ninja	b9e58f5f8126bbd9
+1	64	7228848123278192	CMakeFiles/Jour02.dir/Job01/divide.c.obj	d061bc5abc013e48
+86	162	7229544366329773	Jour02.exe	6edbc343ee96bd14
+1	65	7228850819928214	CMakeFiles/Jour02.dir/Job02/swap.c.obj	416fa084bd0674e1
+2	73	7228890108499938	CMakeFiles/Jour02.dir/Job03/array_clone.c.obj	2c312f07e39d93b5
+2	266	7229502298970821	CMakeFiles/Jour02.dir/Job05/func_to_array.c.obj	6a86ed2715f9ebd1
+13	85	7229657494401240	CMakeFiles/Jour02.dir/Job07/lowercase_input.c.obj	ccf00df55e372dda
+1	161	7229657921922704	build.ninja	b9e58f5f8126bbd9
+2	84	7229657923664040	Jour02.exe	c1c6c3455ba64cad
